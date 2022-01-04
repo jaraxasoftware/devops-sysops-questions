@@ -3,6 +3,8 @@ Linux System Administrator/DevOps Interview Questionnaire
 
 Please answer as simply as you can. If you cannot answer a particular question, leave it blank, or leave a comment.
 
+*This is not an exam. You should not have necessarily to answer all.*
+
 You can fork this repo, or make a pull request to the main branch of this one. 
 
 
