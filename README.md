@@ -20,9 +20,7 @@ You can fork this repo, or make a pull request to the main branch of this one.
 
 #### [[⬆]](#toc) <a name='simple'>Simple Linux Questions:</a>
 
-* What is the name and the UID of the administrator user?
 * Which command will show you free/used memory? Does free memory exist on Linux?
-* How to get all environment variables and how can you use them?
 * I get "command not found" when I run ```ifconfig -a```. What can be wrong?
 * What command will show the available disk space on the Unix/Linux system?
 * What commands do you know that can be used to check DNS records?
@@ -31,10 +29,9 @@ You can fork this repo, or make a pull request to the main branch of this one.
 * How to add a new system user without login permissions?
 * How to add/remove a group from a user?
 * What is a bash alias?
-* How to redirect STDOUT and STDERR in bash? (> /dev/null 2>&1)
+* How to redirect STDOUT and STDERR in bash? 
 * Explain the three load averages and what do they indicate. What command can be used to view the load averages?
 * Walk me through the steps you'd take to troubleshoot a 404 error on a web application you administer.
-* What is ICMP protocol? Why do you need to use?
 
 #### [[⬆]](#toc) <a name='medium'>Medium Linux Questions:</a>
 
@@ -43,38 +40,28 @@ You can fork this repo, or make a pull request to the main branch of this one.
 * What is the sticky bit?
 * What does the immutable bit do to a file?
 * What is the difference between hardlinks and symlinks? What happens when you remove the source to a symlink/hardlink?
-* What is an inode and what fields are stored in an inode?
 * What is SSH port forwarding?
 * Describe a scenario when you get a "filesystem is full" error, but 'df' shows there is free space.
 * Describe a scenario when deleting a file, but 'df' not showing the space being freed.
-* Describe how 'ps' works.
 * How to know which process listens on a specific port?
 * You run a bash script and you want to see its output on your terminal and save it to a file at the same time. How could you do it?
 * Describe briefly the steps you need to take in order to create and install a valid certificate for the site https://foo.example.com.
 * What is "nohup" used for?
-* What does the column 'reach' mean in ```ntpq -p``` output?
 * You need to upgrade kernel at 100-1000 servers, how you would do this?
 * Do you know of any alternative shells? If so, have you used any?
 * How can you tell if the httpd package was already installed?
-* How can you list the contents of a package?
 * Can you explain to me the difference between block based, and object based storage?
 
 #### [[⬆]](#toc) <a name='hard'>Hard Linux Questions:</a>
 
 * What is the difference between IDS and IPS?
-* What shortcuts do you use on a regular basis?
-* What is the Linux Standard Base?
-* What is an atomic operation?
 * Your freshly configured http server is not running after a restart, what can you do?
 * What kind of keys are in ~/.ssh/authorized_keys and what it is this file used for?
 * I've added my public ssh key into authorized_keys but I'm still getting a password prompt, what can be wrong?
 * What does ```:(){ :|:& };:``` do on your system?
 * What's happening when the Linux kernel is starting the OOM killer and how does it choose which process to kill first?
 * What's a chroot jail?
-* When trying to umount a directory it says it's busy, how to find out which PID holds the directory?
-* What's LD_PRELOAD and when it's used?
 * You ran a binary and nothing happened. How would you debug this?
-* How can you remove/delete a file with file-name consisting of only non-printable/non-type-able characters?
 * How can you increase or decrease the priority of a process in Linux?
 
 
@@ -103,12 +90,11 @@ You can fork this repo, or make a pull request to the main branch of this one.
 * Can you describe your workflow when you create a script?
 * What is GIT?
 * What is puppet/chef/ansible used for?
-* What is Nagios/Zenoss/NewRelic used for?
-* What is Jenkins/TeamCity/GoCI used for?
+* What is Nagios/Grafana/NewRelic used for?
+* What is Jenkins/Cloudbees/CircleCI used for?
 * What is the difference between Containers and VMs?
 * How do you create a new postgres user?
 * What is a virtual IP address? What is a cluster?
-* How do you find shared library dependencies?
 * What are the advantages/disadvantages of script vs compiled program?
 * What are the important aspects of a system of continuous integration and deployment?
 * How would you enable network file sharing within AWS that would allow EC2 instances in multiple availability zones to share data?
@@ -117,7 +103,6 @@ You can fork this repo, or make a pull request to the main branch of this one.
 
 * I've lost my root password, what can I do?
 * I've rebooted a remote server but after 10 minutes I'm still not able to ssh into it, what can be wrong?
-* If you were stuck on a desert island with only 5 command-line utilities, which would you choose?
 * You have deleted by error a running script, what could you do to restore it?
 * How to reboot server when reboot command is not responding?
 
