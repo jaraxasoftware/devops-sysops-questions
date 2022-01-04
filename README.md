@@ -5,8 +5,6 @@ Please answer as simply as you can. If you cannot answer a particular question, 
 
 *This is not an exam. You should not have necessarily to answer all.*
 
-You can fork this repo, or make a pull request to the main branch of this one. 
-
 
 ## <a name='toc'>Table of Contents</a>
 
