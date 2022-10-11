@@ -89,9 +89,10 @@ Please answer as simply as you can. If you cannot answer a particular question, 
 
 * Can you describe your workflow when you create a script?
 * What is GIT?
-* What is puppet/chef/ansible used for?
-* What is Nagios/Grafana/NewRelic used for?
-* What is Jenkins/Cloudbees/CircleCI used for?
+* What is puppet/chef/ansible used for? Name a use case for them.
+* What is Nagios/Grafana/Kibana used for? Name a use case for them.
+* What is NewRelic/AppDynamics/DataDog? Name a use case for them.
+* What is Tekton/Github Actions/Azure Devops used for?
 * What is the difference between Containers and VMs?
 * How do you create a new postgres user?
 * What is a virtual IP address? What is a cluster?
@@ -108,5 +109,5 @@ Please answer as simply as you can. If you cannot answer a particular question, 
 
 #### [[⬆]](#toc) <a name='demo'>Demo Time:</a>
 
-* Get the Java application skeleton on Code folder. Show us what you would do with it to move across environemnts. Try to maintain the maximum simplicity. No need to get a working DevOps and/or CD/CI workflow. You can just suggest or make a basic approach.
+* Get the Java application skeleton on Code folder. Show us what you would do with it to move across environemnts. Try to maintain the maximum simplicity. No need to get a working DevOps and/or CD/CI workflow, but using Github Actions will be a plus+++. You can just suggest or make a basic approach.
 
